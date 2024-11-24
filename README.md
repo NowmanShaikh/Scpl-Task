@@ -1,13 +1,4 @@
 # Scpl-Task
-# Table of Contents
-1. [Introduction](#introduction)
-2. [Endpoints](#endpoints)
-    - [Create Employee](#create-employee)
-    - [Get All Employees](#get-all-employees)
-    - [Get Employee by ID](#get-employee-by-id)
-    - [Update Employee](#update-employee)
-    - [Delete Employee](#delete-employee)
-
 ## Introduction
 
 The Employee Management API allows for creating, retrieving, updating, and deleting employee records. This API is implemented using Spring Boot and provides a set of RESTful endpoints to manage employee data.
